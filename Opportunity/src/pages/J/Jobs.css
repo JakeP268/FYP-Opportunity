@@ -1,0 +1,16 @@
+img.m{
+
+    width: 100%;
+}
+
+ion-slide{
+    padding: 0px;
+}
+
+.swiper-slide {
+    display: block;
+  }
+
+  ion-button.jobs{
+      padding-left: 100px;
+  }

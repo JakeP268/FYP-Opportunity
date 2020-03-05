@@ -1,0 +1,8 @@
+{
+  "appId": "www.opportunity.com",
+  "appName": "Opportunity",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www.opportunity.com",
+  "cordova": {}
+}

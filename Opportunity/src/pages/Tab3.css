@@ -1,0 +1,21 @@
+     ion-slide.t3 > img {
+      margin: -46px 0;
+    }
+
+    ion-slide.t3{
+      padding-top: 40%;
+  }
+
+    .swiper-slide {
+        display: block;
+      }
+  
+      ion-slide.t3 > h2 {
+        margin-top: 2.0rem;
+      }
+
+      ion-slide.t3 {
+    
+        padding-bottom: 5em;
+    
+      }

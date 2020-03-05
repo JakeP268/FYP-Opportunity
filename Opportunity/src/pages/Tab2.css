@@ -1,0 +1,29 @@
+ion-slide.t2{
+    padding-top: 60%;
+}
+
+ion-button{
+    padding-top: 3%;
+
+}
+
+ion-slides.t2 div{
+    font-size: 20px;   
+
+  }
+
+  ion-slide.t2 div.a {
+    font-size: 40px;
+    color: dodgerblue;
+
+  }
+
+  .swiper-slide {
+    display: block;
+  }
+
+  ion-slide.t2 {
+    
+    padding-bottom: 15em;
+
+  }
