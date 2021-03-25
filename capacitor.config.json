@@ -1,0 +1,11 @@
+{
+  "appId": "com.wit.opportunity",
+  "appName": "Opportunity",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "SplashScreen": {
+    "launchShowDuration": 0
+  },
+  "cordova": {}
+}

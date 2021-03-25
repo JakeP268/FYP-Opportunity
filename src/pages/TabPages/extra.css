@@ -1,0 +1,49 @@
+ion-card.c1 {
+  height: 95%;
+}
+
+.font {
+  font-size: 20px;
+}
+
+.spinnerCenter {
+  display: block;
+  margin: auto;
+}
+
+.b {
+  font-size: 125%;
+}
+.n {
+  --side-max-width: 20%;
+}
+
+.isize {
+  width: 45px;
+  height: 25px;
+}
+
+.upload-btn-wrapper input[type="file"] {
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+
+:root {
+  --ion-color-backbutton: #ffffff;
+  --ion-color-backbutton-rgb: 105, 187, 123;
+  --ion-color-backbutton-contrast: #ffffff;
+  --ion-color-backbutton-contrast-rgb: 255, 255, 255;
+  --ion-color-backbutton-shade: #ffffff;
+  --ion-color-backbutton-tint: #ffffff;
+}
+
+.ion-color-backbutton {
+  --ion-color-base: var(--ion-color-backbutton);
+}
+
+.image-center {
+  margin: 0 auto;
+}
